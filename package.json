@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://kavikamal.github.io/todo-part-1",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
